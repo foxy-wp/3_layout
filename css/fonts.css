@@ -1,0 +1,55 @@
+/* open-sans-regular - latin */
+@font-face {
+    font-family: 'open-sans-v23-latin'; /*назва папки*/
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/open-sans-v23-latin/open-sans-v23-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local(''),
+    url('../fonts/open-sans-v23-latin/open-sans-v23-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/open-sans-v23-latin/open-sans-v23-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/open-sans-v23-latin/open-sans-v23-latin-regular.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/open-sans-v23-latin/open-sans-v23-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/open-sans-v23-latin/open-sans-v23-latin-regular.svg#OpenSans') format('svg'); /* Legacy iOS */
+}
+
+        /*fonts/шлях до папки/назва шрифта*/
+
+
+
+/* open-sans-condensed-300 - latin */
+@font-face {
+    font-family: 'Open Sans Condensed';
+    font-style: normal;
+    font-weight: 300;
+    src: url('../fonts/open-sans-condensed/open-sans-condensed-v15-latin-300.eot'); /* IE9 Compat Modes */
+    src: local(''),
+    url('../fonts/open-sans-condensed/open-sans-condensed-v15-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/open-sans-condensed/open-sans-condensed-v15-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/open-sans-condensed/open-sans-condensed-v15-latin-300.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/open-sans-condensed/open-sans-condensed-v15-latin-300.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/open-sans-condensed/open-sans-condensed-v15-latin-300.svg#OpenSansCondensed') format('svg'); /* Legacy iOS */
+}
+
+
+@font-face {
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/PT_Sans/PTSans-Bold.ttf') ; /* Safari, Android, iOS */
+
+}
+
+
+/* pt-sans-regular - latin */
+@font-face {
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/pt_sans400/pt-sans-v12-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local(''),
+    url('../fonts/pt_sans400/pt-sans-v12-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/pt_sans400/pt-sans-v12-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/pt_sans400/pt-sans-v12-latin-regular.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/pt_sans400/pt-sans-v12-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/pt_sans400/pt-sans-v12-latin-regular.svg#PTSans') format('svg'); /* Legacy iOS */
+}
